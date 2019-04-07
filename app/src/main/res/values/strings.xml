@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Just Shake</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="title_categories">Categories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_maps">Map</string>
+
+    <string name="expand">Expand/Collapse ActionBar</string>
+    <string name="hide">Show/Hide ActionBar when scroll</string>
+    <string name="paralax">ActionBar Parallax Animations</string>
+
+    <string name="google_maps_api" templateMergeStrategy="preserve" translatable="false">AIzaSyAwfV2fa8O3-6HAmsvbcyfUZJjDEGosYgE</string>
+    <string name="title_activity_final">FinalActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>

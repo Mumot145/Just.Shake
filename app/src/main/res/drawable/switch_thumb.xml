@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:thumbOffset="@dimen/activity_vertical_margin">
+        <shape android:shape="oval">
+            <solid android:color="#ffd300" />
+        </shape>
+    </item>
+    <item
+        android:bottom="2dp"
+        android:left="1dp"
+        android:right="1dp"
+        android:top="1dp">
+        <shape android:shape="oval">
+            <solid android:color="#000" />
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/ic_delivery"
+            android:tint="@color/switch_color" />
+    </item>
+</layer-list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MySeekBar">
+        <attr name="hint_text_size" format="dimension"/>
+        <attr name="hint_text_color" format="color" />
+        <attr name="hint_text_padding_top" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "479239157940",
+    "firebase_url": "https://shake-n-eat-1521770655416.firebaseio.com",
+    "project_id": "shake-n-eat-1521770655416",
+    "storage_bucket": "shake-n-eat-1521770655416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479239157940:android:a18de3476987388f",
+        "android_client_info": {
+          "package_name": "com.patrickmumot.eatingdice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479239157940-gfkktf975315b6024etpngendgj9si3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByl6fCPrF10GlzlvxCbJKfPfm2vKx5cN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-4797792331734502~2334093847"
+    }
+  ],
+  "configuration_version": "1"
+}
