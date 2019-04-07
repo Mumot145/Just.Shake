@@ -996,7 +996,7 @@ public class MainActivityRemake extends AppCompatActivity implements IGooglePlac
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.top_menu, menu);
+        inflater.inflate(R.menu.main_menu, menu);
         return true;
     }
 
